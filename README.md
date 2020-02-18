@@ -11,4 +11,4 @@ The WiFi class delivers the game parameters which are summarized in the followin
 5.Each machine navigates to their correspondingtunnel, transits, andthen proceeds to their search zone.  Upon arriving, each machine will again stop and issue a sequence of 3 beeps.<br>
 6.Each machine begins the search process.  Upon detecting a can, the machine stops,assesses the can (color and weight),and issues one or more beeps based on the color of the cans.<br>
 
-Complete view of the final project please see ![project requirement document]()
+Complete view of the final project please see [project requirement document](https://github.com/AntoineWY/ECSE-211-Design-Principle-and-Method-W2019/blob/master/ECSE211-Project-Description.pdf)
