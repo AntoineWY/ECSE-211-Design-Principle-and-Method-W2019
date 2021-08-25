@@ -2,7 +2,7 @@
 **Overview**<br>
 The goal of this project is to design a machine that can autonomously navigate a closed course in search of 210 ml soft drink cans for recycling.  Here two robots will compete with one another to determine who can recover the most re-cyclable material in agiven time interval.  Cans come in two weights with four different colors for a total of 8 different color-weight combinations, with the heavier cans being more “valuable”.Points are awarded for each can correctly retrieved (i.e. with the right color), with double points for the heavier cans. <br>
 
-Specific Details:<br>
+**Specific Details:**<br>
 The WiFi class delivers the game parameters which are summarized in the following section.  The procedure that each player must follow is summarized in the following steps and mustbe adhered to:<br>
 1.Each robot is placed in the corner specified by the marshal running the competition round.Player will be instructed as to where to place and orient the machine.<br>
 2.Once placed and the start button pushed, the player are no longer permitted to touch the machine.  If there is any contact with the machine the team is disqualified for that round.<br>
